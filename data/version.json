@@ -1,0 +1,11 @@
+{
+  "app": "Pancko Gestión v0.12.19 R9",
+  "articulos": "lab_r9_cod_minimos_precios_ficticios",
+  "recetas": "lab_r9_una_receta_ficticia",
+  "clientes": "lab_r9_sin_clientes",
+  "shell": "0.12.19-R9-LAB",
+  "catalog": "0.11.2",
+  "caja": "0.12.7",
+  "cuenta_corriente": "0.12.6-central",
+  "presupuestos": "0.12.18"
+}

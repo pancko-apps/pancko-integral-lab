@@ -1,0 +1,17 @@
+.pancko-online-trigger{width:auto!important;white-space:nowrap;padding:4px 7px;font-size:.75rem}
+.pancko-online-dialog{border:1px solid #aab6c5;border-radius:14px;max-width:min(560px,95vw);max-height:85vh;overflow:auto;padding:20px;background:#fff;color:#182638;box-shadow:0 12px 50px #0005}
+.pancko-online-dialog::backdrop{background:#12243c99}
+.pancko-online-dialog li{margin:8px 0}.pancko-online-actions{display:flex;justify-content:flex-end;gap:10px;margin-top:18px;flex-wrap:wrap}
+.pancko-bridge-diagnostic{margin:12px 0;padding:10px 14px;border:1px solid #7ba6cd;border-radius:10px;background:#edf6ff;color:#173657;font-size:.82rem;line-height:1.5}
+.pancko-bridge-diagnostic>div:first-child{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.pancko-bridge-diagnostic button{font-size:.78rem;padding:5px 9px}
+.pancko-online-suggestions{position:absolute;z-index:1100;top:100%;left:0;min-width:250px;width:min(440px,88vw);max-height:260px;overflow:auto;background:#fff;color:#20344c;border:1px solid #8eabc7;border-radius:9px;box-shadow:0 10px 25px #0003;padding:5px}
+.pancko-online-suggestions small{display:block;padding:6px 8px;color:#526a82;font-weight:700}
+.pancko-online-suggestions button{display:block;width:100%;padding:8px;text-align:left;border:0;border-top:1px solid #e1eaf2;background:#fff;color:#1c3857;font:inherit;font-size:.85rem;cursor:pointer}
+.pancko-online-suggestions button:hover,.pancko-online-suggestions button:focus-visible{background:#eaf5ff}
+#cartScreen .budget-formula{position:relative}
+#labScreen .field:has(#labColorInput){position:relative}
+
+.pancko-online-suggestions button .pancko-online-row-meta{padding:3px 0 0;color:#386388;font-weight:600;font-size:.75rem}
+.header .brand .pancko-experimental-version{display:inline-block;vertical-align:middle;margin-left:8px;padding:5px 8px;border-radius:7px;background:#a63317;color:#fff;font:800 .72rem/1.2 system-ui,sans-serif;letter-spacing:.025em;white-space:normal;max-width:none}
+@media(max-width:600px){.header .brand .pancko-experimental-version{margin-left:0;margin-top:5px;display:table;font-size:.65rem}}
